@@ -1,0 +1,9 @@
+<resources>
+    <style name="Base.Theme.Theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Общие элементы -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+</resources>
